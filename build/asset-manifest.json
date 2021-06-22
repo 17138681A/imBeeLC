@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.601fbba4.chunk.css",
+    "main.js": "/static/js/main.5c6ee830.chunk.js",
+    "main.js.map": "/static/js/main.5c6ee830.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.650a1cab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.650a1cab.js.map",
+    "static/js/2.c3f669c1.chunk.js": "/static/js/2.c3f669c1.chunk.js",
+    "static/js/2.c3f669c1.chunk.js.map": "/static/js/2.c3f669c1.chunk.js.map",
+    "static/js/3.033646b4.chunk.js": "/static/js/3.033646b4.chunk.js",
+    "static/js/3.033646b4.chunk.js.map": "/static/js/3.033646b4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.601fbba4.chunk.css.map": "/static/css/main.601fbba4.chunk.css.map",
+    "static/js/2.c3f669c1.chunk.js.LICENSE.txt": "/static/js/2.c3f669c1.chunk.js.LICENSE.txt",
+    "static/media/logo_imbeeo.0321d66e.png": "/static/media/logo_imbeeo.0321d66e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.650a1cab.js",
+    "static/js/2.c3f669c1.chunk.js",
+    "static/css/main.601fbba4.chunk.css",
+    "static/js/main.5c6ee830.chunk.js"
+  ]
+}
